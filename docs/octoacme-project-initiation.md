@@ -68,7 +68,7 @@ When new team members join during or after initiation:
 
 ### Role-Specific Onboarding
 - **Developers**: Review codebase, setup dev environment, review branching/PR conventions
-- **Technical Lead**: Review architecture docs, meet with current tech lead for handoff
+- **Technical Lead**: Review architecture docs, meet with current tech lead for hand-off
 - **DevOps Specialist**: Review infrastructure, CI/CD pipelines, monitoring dashboards
 - **UX Designer**: Review design system, user research findings, existing prototypes
 - **Business Analyst**: Review requirements documentation, meet key stakeholders

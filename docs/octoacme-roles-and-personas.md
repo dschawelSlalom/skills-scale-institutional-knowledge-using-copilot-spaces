@@ -35,6 +35,13 @@ Developers design, build, test, and deliver software components. They collaborat
 - PR descriptions and code review comments
 - Technical design docs when needed
 
+### Collaboration Points
+- **Technical Lead**: Seek guidance on architecture and complex technical decisions
+- **UX Designer**: Collaborate on design implementation and feasibility
+- **DevOps Specialist**: Coordinate on build, test, and deployment issues
+- **Business Analyst**: Clarify requirements and acceptance criteria
+- **Product Manager**: Discuss feature scope and technical trade-offs
+
 ---
 
 ## Product Managers
@@ -57,6 +64,13 @@ Product Managers define what should be built to deliver customer and business va
 - Weekly alignment with PM and engineering leads
 - Roadmap updates and stakeholder briefings
 - Acceptance criteria and feature specs
+
+### Collaboration Points
+- **Business Analyst**: Partner on requirements and stakeholder alignment
+- **UX Designer**: Collaborate on user needs and design direction
+- **Technical Lead**: Discuss technical feasibility and effort estimates
+- **Project Manager**: Align on priorities, timelines, and resource allocation
+- **Developers**: Clarify feature intent and validate delivered value
 
 ---
 
@@ -81,6 +95,13 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Weekly status updates and stakeholder reports
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
+
+### Collaboration Points
+- **Product Manager**: Align on priorities and scope changes
+- **Scrum Master**: Coordinate on team process and impediment removal (Agile teams)
+- **Technical Lead**: Monitor technical risks and architecture decisions
+- **DevOps Specialist**: Schedule releases and deployment windows
+- **All team members**: Facilitate communication and remove blockers
 
 ---
 
@@ -206,7 +227,7 @@ UX Designers create user-centered experiences, design interfaces, conduct usabil
 
 ### Collaboration Points
 - **Product Manager**: Align on user needs, feature goals, and success metrics
-- **Developers**: Collaborate on implementation feasibility and design handoffs
+- **Developers**: Collaborate on implementation feasibility and design hand-offs
 - **Business Analyst**: Ensure designs address documented requirements
 - **Stakeholders**: Present designs and gather feedback
 
