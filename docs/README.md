@@ -99,7 +99,7 @@ Provide inputs, approvals, and business context for decision-making.
 
 OctoAcme maintains predictable communication rhythms:
 
-- **Daily Standups**: 15-minute team syncs on progress and blockers (twice weekly minimum, or as agreed)
+- **Team Standups**: 15-minute team syncs on progress and blockers (twice weekly or as agreed by team)
 - **Weekly PM + PdM Sync**: Alignment on priorities, risks, and decisions
 - **Weekly Delivery Sync**: Team progress updates and risk flagging
 - **Monthly Stakeholder Updates**: Broader status reports to leadership and partners
@@ -145,7 +145,7 @@ Projects maintain the following core documentation:
 ## Using These Docs with Copilot
 
 To maximize effectiveness with GitHub Copilot Spaces:
-- Keep project charter and key docs in your repository's `docs/` or `.copilot/` folder
+- Keep project charter and key docs in your repository's `docs/` folder for public documentation, or `.copilot/` folder for Copilot-specific context that you want to keep separate from general documentation
 - Reference these process docs when asking Copilot for help with project artifacts
 - Use role-specific personas to get contextual guidance for your responsibilities
 - Update documentation as processes evolve to keep Copilot's context current
