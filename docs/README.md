@@ -22,7 +22,7 @@ This documentation is designed to be used with GitHub Copilot Spaces to:
 - [**Retrospective & Continuous Improvement**](octoacme-retrospective-and-continuous-improvement.md) - Capturing learnings, action items, improvement culture
 
 ### Supporting Resources
-- [**Roles & Personas**](octoacme-roles-and-personas.md) - Detailed role definitions for Developers, Product Managers, and Project Managers
+- [**Roles & Personas**](octoacme-roles-and-personas.md) - Detailed role definitions for Developers, Product Managers, Project Managers, Scrum Masters, Technical Leads, Business Analysts, UX Designers, and DevOps Specialists
 
 ## Project Management Lifecycle
 
@@ -80,20 +80,33 @@ OctoAcme's project management approach is built on five foundational principles:
 
 ## Key Roles & Responsibilities
 
-### Project Manager (PM)
-Coordinates delivery, schedules, risk management, and communications. Facilitates meetings, maintains project documentation, and ensures transparency across stakeholders.
+OctoAcme projects involve diverse contributors across the delivery lifecycle. See [Roles & Personas](octoacme-roles-and-personas.md) for complete definitions.
 
-### Product Manager (PdM)
-Defines outcomes, prioritizes backlog, and measures success. Owns product vision and validates solutions through user research and metrics.
+### Core Delivery Roles
 
-### Developers
-Implement features, write tests and documentation, participate in code reviews, and help identify technical risks.
+**Project Manager (PM)**: Coordinates delivery, schedules, risk management, and communications. Facilitates meetings, maintains project documentation, and ensures transparency across stakeholders.
 
-### QA/Testing
-Validate quality standards and acceptance criteria through various testing approaches.
+**Product Manager (PdM)**: Defines outcomes, prioritizes backlog, and measures success. Owns product vision and validates solutions through user research and metrics.
 
-### Stakeholders
-Provide inputs, approvals, and business context for decision-making.
+**Developers**: Implement features, write tests and documentation, participate in code reviews, and help identify technical risks.
+
+### Specialized Roles
+
+**Technical Lead**: Provides technical direction, oversees architecture and code quality, mentors developers on best practices, and manages technical risks.
+
+**Scrum Master**: Guides the team in Agile practices (Agile teams), facilitates ceremonies, removes impediments, and fosters continuous improvement.
+
+**Business Analyst**: Gathers and analyzes requirements, documents business processes, creates user stories, and ensures alignment between business needs and technical solutions.
+
+**UX Designer**: Creates user-centered experiences, designs interfaces, conducts usability research, and advocates for intuitive, accessible design.
+
+**DevOps Specialist**: Manages CI/CD pipelines, infrastructure, automation, monitoring, and incident response to enable reliable software delivery.
+
+### Additional Contributors
+
+**QA/Testing**: Validate quality standards and acceptance criteria through various testing approaches.
+
+**Stakeholders**: Provide inputs, approvals, and business context for decision-making.
 
 ## Communication Cadence
 
@@ -141,6 +154,36 @@ Projects maintain the following core documentation:
 2. Follow PR conventions and quality standards
 3. Participate in planning and estimation activities
 4. Contribute to retrospectives and continuous improvement
+
+### For Technical Leads
+1. Review architecture decisions and technical standards
+2. Participate in [Project Planning](octoacme-project-planning.md) for technical feasibility assessments
+3. Guide the team on code quality and design patterns
+4. Collaborate with [DevOps Specialist](octoacme-roles-and-personas.md#devops-specialist) on infrastructure decisions
+
+### For Scrum Masters (Agile Teams)
+1. Facilitate sprint ceremonies and team rhythm
+2. Use [Execution & Tracking](octoacme-execution-and-tracking.md) guidance for daily standups
+3. Remove impediments and track team velocity
+4. Lead [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) sessions
+
+### For Business Analysts
+1. Review [Project Initiation](octoacme-project-initiation.md) for requirements gathering
+2. Create user stories following [Project Planning](octoacme-project-planning.md) templates
+3. Facilitate stakeholder workshops and requirements validation
+4. Partner with Product Managers on feature definition
+
+### For UX Designers
+1. Review design system and user research findings
+2. Participate in [Project Planning](octoacme-project-planning.md) to present design direction
+3. Collaborate with Developers on design implementation
+4. Validate designs with users and iterate based on feedback
+
+### For DevOps Specialists
+1. Review [Release & Deployment](octoacme-release-and-deployment.md) procedures
+2. Set up CI/CD pipelines and infrastructure
+3. Monitor system health and respond to incidents
+4. Collaborate with Technical Leads on architecture and scaling
 
 ## Using These Docs with Copilot
 
